@@ -17,6 +17,7 @@ Add sass script inside `package.json`:
   	},
 
 Copy [Gulpfile.js](Gulpfile.js) into your WordPress root directory.
+Update `wp_theme_dir` with your theme's name.
 
 Run It:
 `$ npm run sass`
